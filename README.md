@@ -1,1 +1,1 @@
-- Walfusss are the best :v,
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=autoshgame)](https://github.com/anuraghazra/github-readme-stats)
