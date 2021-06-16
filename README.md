@@ -1,7 +1,6 @@
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api?username=autoshgame">
-<p>I wanna walifussss</p>
-<p>From Date a Live with love</p>
+<p>statistics</p>
 <br/>
 <br/>
 <br/>
